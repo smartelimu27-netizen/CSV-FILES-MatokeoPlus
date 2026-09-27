@@ -255,7 +255,7 @@ Before importing the completed CSV file into MatokeoPlus:
 
 ### Quick Summary
 
-**GitHub Repository → Code → Download ZIP → Extract ZIP → Open the required class folder → Select CSV template → Enter data → Save as CSV → Import into MatokeoPlus.**
+**GitHub Repository → Code → Download ZIP → Extract ZIP → Open the required class folder → Select CSV template → Enter data → Save as CSV UTF-8 (Comma delimited)→ Import into MatokeoPlus.**
 
 ### MatokeoPlus
 
