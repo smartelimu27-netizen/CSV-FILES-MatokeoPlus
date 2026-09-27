@@ -111,7 +111,7 @@ When sharing templates publicly, use **sample or placeholder data only**.
 
 ## 📊 CSV Format
 
-The templates use the **Comma-Separated Values (CSV)** format.
+The templates use the **Comma-Separated Values (CSV)** format. Save the file as CSV UTF-8 (Comma delimited)
 
 CSV files are widely supported by spreadsheet applications and are suitable for transferring structured data between the templates and MatokeoPlus.
 
