@@ -1,0 +1,12 @@
+st_id,Student_First_Name,Student_Mid_Name,Student_Sur_Name,Father_Email,Student_DOB,Student_Gender,Student_class,Fathers_First_Name,Fathers_Mid_Name,Fathers_Phone,Fathers_Address,Mothers_First_Name,Mothers_Mid_Name,Mothers_Phone,Mothers_Email
+SM/S304/2020/01,Maria,Rashid,Kasimu,,4/5/2022,Female,Standard_05,Rashid,Kasimu,,Chalinze,Mariamu,Makweta,,
+SM/S304/2020/02,Nadia,Kulwa,Abuu,,4/5/2088,Female,Standard_05,Kulwa,Abuu,,Tabata,Halima,Omary,,
+SM/S304/2020/03,Mapimo,Patrick,A,,4/26/2020,Male,Standard_05,Patrick,A,,Samora,Jonita,Hamisi,,
+SM/S304/2020/04,Clara,Zebedayo,Kaisi,,5/2/2020,Female,Standard_05,Zebedayo,Kaisi,,A,Hanifa,A,,
+SM/S304/2020/05,Juma,Selemani,Mkisi,,5/16/2002,Male,Standard_05,Selemani,Mkisi,,Miyomboni,Shadia,Mazengo,,
+SM/S304/2020/06,Muhsin,Mmmari,Dulla,,6/12/2003,Male,Standard_05,Mmmari,Dulla,,Miyomboni,Sauda,Kiwelo,,
+SM/S304/2020/07,Daniel,Hashimu,Mkisi,,5/16/1989,Male,Standard_05,Hashimu,Mkisi,,Miyomboni,Clara,Kalinga,,
+SM/S304/2020/08,Rehema,nkunda,Karimu,,1/20/1988,Female,Standard_05,nkunda,Karimu,,Miyomboni,Happy,Shayo,,
+SM/S304/2020/09,Shanina,Othman,Farid,,7/25/2000,Male,Standard_05,Othman,Farid,,Miyomboni,Suzan,Malima,,
+SM/S304/2020/10,Fahamu,Rajabu,Shayo,,5/16/2011,Male,Standard_05,Rajabu,Shayo,,Miyomboni,Rebeca,Mhina,,
+SM/S304/2020/11,Rwehumbiza,Kuboza,Mwita,,5/30/2006,Male,Standard_05,Kuboza,Mwita,,Miyomboni,Mary,Katete,,

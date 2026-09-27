@@ -1,0 +1,12 @@
+st_id,Student_First_Name,Student_Mid_Name,Student_Sur_Name,Father_Email,Student_DOB,Student_Gender,Student_class,Fathers_First_Name,Fathers_Mid_Name,Fathers_Phone,Fathers_Address,Mothers_First_Name,Mothers_Mid_Name,Mothers_Phone,Mothers_Email
+SM/S304/2023/01,Rehema,JUMA,Kulwa,,4/5/2022,Female,Standard_02,JUMA,Kulwa,,Chalinze,Mariamu,Makweta,,
+SM/S304/2023/02,Sadick,Suma,Abuu,,4/5/2088,Male,Standard_02,Suma,Abuu,,Tabata,Halima,Omary,,
+SM/S304/2023/03,Zena,Haule,Mpina,,4/26/2023,Female,Standard_02,Haule,Mpina,,Samora,Jonita,Hamisi,,
+SM/S304/2023/04,Hashimu,Zebedayo,Kaisi,,5/2/2023,Female,Standard_02,Zebedayo,Kaisi,,A,Hanifa,A,,
+SM/S304/2023/05,Lukuba,Charles,Mkisi,,5/16/2002,Male,Standard_02,Charles,Mkisi,,Miyomboni,Shadia,Mazengo,,
+SM/S304/2023/06,Fabian,Magenda,Lwambata,,6/12/2003,Male,Standard_02,Magenda,Lwambata,,Miyomboni,Sauda,Kiwelo,,
+SM/S304/2023/07,John,Selemani,Kamgisha,,5/16/1989,Male,Standard_02,Selemani,Kamgisha,,Miyomboni,Clara,Kalinga,,
+SM/S304/2023/08,Salumu,Haji,Shuabu,,1/20/1988,Male,Standard_02,Haji,Shuabu,,Miyomboni,Happy,Shayo,,
+SM/S304/2023/09,Majid,Buzema,Khalid,,7/25/2000,Male,Standard_02,Buzema,Khalid,,Miyomboni,Suzan,Malima,,
+SM/S304/2023/10,Jesca,Karimu,Omary,,5/16/2011,Female,Standard_02,Karimu,Omary,,Miyomboni,Rebeca,Mhina,,
+SM/S304/2023/11,Furaha,Joshua,Muhsin,,5/30/2006,Female,Standard_02,Joshua,Muhsin,,Miyomboni,Mary,Katete,,
