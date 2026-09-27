@@ -155,6 +155,108 @@ Schools and users are responsible for verifying the accuracy of information befo
 
 ---
 
+Here is a simple user-friendly tutorial you can place in your GitHub `README.md` or inside the MatokeoPlus documentation.
+
+# How to Download MatokeoPlus CSV Templates
+
+Follow the steps below to download the folder containing the CSV templates for **student information, student characteristics, and academic marks**.
+
+## Step 1: Open the MatokeoPlus Templates Repository
+
+Open the MatokeoPlus GitHub repository provided to you or click a button in MatokeoPlus designed to link to MatokeoPlus GitHub repository.
+
+You will see folders containing the available CSV templates.
+
+## Step 2: Open the Required Folder
+
+Click the folder containing the templates you need.
+
+For example:
+
+```text
+marks
+```
+
+Inside the folder, you may find templates organized according to class or standard.
+
+Example:
+
+```text
+marks
+├── Standard_01
+├── Standard_02
+├── Standard_03
+├── Standard_04
+├── Standard_05
+├── Standard_06
+└── Standard_07
+```
+
+## Step 3: Download the Folder
+
+GitHub does not normally provide a **Download Folder** button for an individual folder.
+
+The easiest method is to download the **entire repository**.
+
+1. Go back to the main page of the repository.
+2. Click the green **Code** button.
+3. Select **Download ZIP**.
+4. Wait for the download to finish.
+
+## Step 4: Extract the ZIP File
+
+After downloading:
+
+1. Locate the downloaded `.zip` file on your computer.
+2. Right-click the file.
+3. Select **Extract All**.
+4. Choose where you want to save the files.
+5. Click **Extract**.
+
+You will now have a folder containing the CSV templates.
+
+## Step 5: Select the Required Template
+
+Open the extracted folder and navigate to the class you need.
+
+For example:
+
+```text
+MatokeoPlus-Templates
+    ↓
+marks
+    ↓
+Standard_04
+```
+
+You can then select the required CSV file.
+
+## Step 6: Open the CSV File
+
+You can open the CSV file using:
+
+* Microsoft Excel
+* LibreOffice Calc
+* Google Sheets
+* Another CSV-compatible spreadsheet application
+
+Enter your school data while keeping the existing **column headings and file structure unchanged**.
+
+## ⚠️ Important
+
+Before importing the completed CSV file into MatokeoPlus:
+
+* Make sure you selected the correct class.
+* Do not rename the column headings.
+* Do not delete required columns.
+* Check that the student information is correct.
+* Check that the marks are entered correctly.
+* Save the completed file as **CSV**.
+
+### Quick Summary
+
+**GitHub Repository → Code → Download ZIP → Extract ZIP → Open the required class folder → Select CSV template → Enter data → Save as CSV → Import into MatokeoPlus.**
+
 ### MatokeoPlus
 
 **School Results Management Made Simple**
